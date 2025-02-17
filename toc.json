@@ -1,0 +1,93 @@
+[
+  {
+    "groupName": "Easy_spectra",
+    "folderName": "10_Easy_spectra",
+    "children": [
+      {
+        "id": "tO8PidtH1Jp7vHXdoRlMHGZtMLs=",
+        "mf": "C5H8O",
+        "idCodeHash": "f0ebd38d13d3341ebe92cc42364bc5ab",
+        "file": "./10_Easy_spectra/10_Cyclopropyl_methyl_ketone/index.json",
+        "title": "Cyclopropyl_methyl_ketone",
+        "idCode": "gFq@@dsFmU@@",
+        "selected": true
+      },
+      {
+        "id": "MvHVlAEO+lyOIKmfPVEB0T7hsvc=",
+        "mf": "C4H8O",
+        "idCodeHash": "5ebd68b73babfcafc4628841bff6171a",
+        "file": "./10_Easy_spectra/20_Cyclopropyl_methyl_alcohol/index.json",
+        "title": "Cyclopropyl_methyl_alcohol",
+        "idCode": "gKQ@@dmcUP@"
+      },
+      {
+        "id": "myqhsisYmHASR9IZGKNvxgze/qs=",
+        "mf": "C5H10O3",
+        "idCodeHash": "91224c0e026490b1986f18c9237e9444",
+        "file": "./10_Easy_spectra/90_Methyl_3-Hydroxybutyrate/index.json",
+        "title": "Methyl_3-Hydroxybutyrate",
+        "idCode": "daxL@@QdfWfjh@@"
+      }
+    ]
+  },
+  {
+    "groupName": "Quite_tricky",
+    "folderName": "20_Quite_tricky",
+    "children": [
+      {
+        "id": "VMuv+/ubv2Ympc7BMC2CUJDecGU=",
+        "mf": "C5H6O3",
+        "idCodeHash": "f06178f3e10bc13c8fcef6d6a1ce0f9a",
+        "file": "./20_Quite_tricky/60_3-Oxocyclobutane_carboxylic_acid/index.json",
+        "title": "3-Oxocyclobutane_carboxylic_acid",
+        "idCode": "daDL@@[df]lIjf`@"
+      },
+      {
+        "id": "FklHFGD87K8I4Cc45MgyptutYNk=",
+        "mf": "C8H10NOF3",
+        "idCodeHash": "e0d47a91f7382ad4af4f0ed9517719ce",
+        "file": "./20_Quite_tricky/70_N,N-Diallyl-2,2,2-trifluoroacetamide/index.json",
+        "title": "N,N-Diallyl-2,2,2-trifluoroacetamide",
+        "idCode": "dkNHpFhIAICICHiCMDdjijiP@"
+      },
+      {
+        "id": "c7tNrqNwi3S70aG5lQfM08IfY2k=",
+        "mf": "C11H16O2",
+        "idCodeHash": "185f90ad49f75b4553f8d0ae470b3cef",
+        "file": "./20_Quite_tricky/80_Adamantan-1-carboxyclic acid/index.json",
+        "title": "Adamantan-1-carboxyclic acid",
+        "idCode": "dk|D@@QIneVQV]dvjjjj`@"
+      }
+    ]
+  },
+  {
+    "groupName": "Similar_IUPAC_Names",
+    "folderName": "30_Similar_IUPAC_Names",
+    "children": [
+      {
+        "id": "30dnOrfgjpFfEPirtNI7YgPg+zc=",
+        "mf": "C5H6",
+        "idCodeHash": "06fe1ff7a4c773be0a83a15d1f11f65e",
+        "file": "./30_Similar_IUPAC_Names/30_2-Methylbut-1-en-3-in/index.json",
+        "title": "2-Methylbut-1-en-3-in",
+        "idCode": "gJP@DknX@"
+      },
+      {
+        "id": "2Gka1BPxVucUNOf5sS34GfrIDAY=",
+        "mf": "C5H10O",
+        "idCodeHash": "9be55f7f900485064ace7d88c5f55150",
+        "file": "./30_Similar_IUPAC_Names/40_2-Methylbut-3-en-2-ol/index.json",
+        "title": "2-Methylbut-3-en-2-ol",
+        "idCode": "gGQ@@dtuR@@"
+      },
+      {
+        "id": "OxjVcyuniz6IuF0SzMPe8nNH+o0=",
+        "mf": "C5H8O",
+        "idCodeHash": "edb51027259e9ba6297bcc50e0d9bc25",
+        "file": "./30_Similar_IUPAC_Names/50_2-Methylbut-3-in-2-ol/index.json",
+        "title": "2-Methylbut-3-in-2-ol",
+        "idCode": "gGQ@@dtuV@@"
+      }
+    ]
+  }
+]

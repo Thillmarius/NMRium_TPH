@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tO8PidtH1Jp7vHXdoRlMHGZtMLs=",
+    "mf": "C5H8O",
+    "idCodeHash": "f0ebd38d13d3341ebe92cc42364bc5ab",
+    "file": "./10_Easy_spectra/10_Cyclopropyl_methyl_ketone/index.json",
+    "title": "Cyclopropyl_methyl_ketone",
+    "idCode": "gFq@@dsFmU@@",
+    "selected": true
+  },
+  {
+    "id": "MvHVlAEO+lyOIKmfPVEB0T7hsvc=",
+    "mf": "C4H8O",
+    "idCodeHash": "5ebd68b73babfcafc4628841bff6171a",
+    "file": "./10_Easy_spectra/20_Cyclopropyl_methyl_alcohol/index.json",
+    "title": "Cyclopropyl_methyl_alcohol",
+    "idCode": "gKQ@@dmcUP@"
+  },
+  {
+    "id": "myqhsisYmHASR9IZGKNvxgze/qs=",
+    "mf": "C5H10O3",
+    "idCodeHash": "91224c0e026490b1986f18c9237e9444",
+    "file": "./10_Easy_spectra/90_Methyl_3-Hydroxybutyrate/index.json",
+    "title": "Methyl_3-Hydroxybutyrate",
+    "idCode": "daxL@@QdfWfjh@@"
+  }
+]
