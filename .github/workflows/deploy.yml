@@ -18,7 +18,7 @@ jobs:
         run: |
           npm i nmrium-cli --global
           nmrium deleteJSONs
-          nmrium createExercisesTOC
+          nmrium createExercisesTOC -i true -s true
           nmrium deleteStructures
           nmrium appendLinks
           git status
@@ -27,3 +27,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: .
+          single-commit: true
